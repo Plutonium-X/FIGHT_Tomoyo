@@ -1,0 +1,24 @@
+BEGIN dt0685
+
+IF
+  ~NumberOfTimesTalkedTo(0)~
+THEN BEGIN 0
+SAY @80 = @81
+IF ~~ THEN REPLY @82 GOTO 1
+END
+
+IF ~~ THEN BEGIN 1
+SAY @83 = @84 = @85 = @86
+IF ~~ THEN REPLY @87 GOTO 2
+END
+
+IF ~~ THEN BEGIN 2
+SAY @88 = @89
+IF ~~ THEN REPLY @90 GOTO 3
+END
+
+IF ~~ THEN BEGIN 3
+SAY @91
+IF ~~ THEN DO ~EscapeArea()~ EXIT
+END
+
