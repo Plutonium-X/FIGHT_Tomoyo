@@ -1,0 +1,255 @@
+//title
+@1  = ~Mod Tomoyo and the Underground City v0.9 par Viracocha~
+
+//character
+@2  = ~Takafumi No.054~
+@3  = ~Takafumi No.068~
+@4  = ~Takafumi No.071~
+@5  = ~Takafumi No.075~
+@6  = ~Takafumi No.081~
+@7  = ~Takafumi No.090~
+
+@15 = ~Magasin de Tofu de Fujiwara~
+@16 = ~Boulangerie Furukawa~
+@17 = ~Takumi Fujiwara~ 
+@18 = ~Sanae Furukawa~
+@19 = ~Nagisa Furukawa~
+@20 = ~Tomoyo Sakagami~
+@21 = ~Tomoyo est la présidente des élèves du lycée Mitsuzaka. Grâce à un jeu créé par son frère, Hawkman, elle a traversé le multivers et vous est apparue depuis une dimension inconnue.~
+
+@40 = ~Dieu de la mer écumeuse~
+@41 = ~Loup-garou mineur~
+@42 = ~Loup-garou~
+@43 = ~Loup-garou ardent~
+@44 = ~Loup-garou glacial~
+@51 = ~Grand loup-garou~
+@52 = ~Grand loup-garou ardent~
+@53 = ~Grand loup-garou glacial~
+@54 = ~Seigneur loup-garou~
+@60 = ~Golem de Tofu aux amandes~
+@61 = ~Foudre cosmique, l'adorable super invincible dragon de jade béni des cieux.~
+@62 = ~Artilleur nain~
+@63 = ~Bombardier nain~
+
+//goods
+@101 = ~Aegis Fang, réplique en Tofu aux amandes~
+@102 = ~Il peut être utilisé comme marteau de guerre. C'est dommage qu'il soit constitué de tofu aux amandes. Le mieux serait encore de le manger.
+
+PARAMETRES
+
+TAC0 : +5
+Dégâts : 2D4 +5
+Type de dégâts : Contondant
+Poids : 3
+Facteur de Vitesse : 2 
+Compétence : Marteau de guerre
+Type d'arme : à 1 main
+Force nécessaire : 0~
+@103 = ~Épée de Balduran, réplique en Tofu aux amandes~
+@104 = ~Elle peut être utilisée comme une épée longue. Elle ressemble vraiment à l'épée de Balduran, mais les gens s'apercevront après l'avoir équipée qu'elle est constitué de tofu aux amandes.
+
+PARAMETRES :
+
+Capacité d’équipement : connaissance +100
+
+Dégâts : 1D8 +2
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à 1 main
+Force nécessaire : 0~
+
+@105 = ~Fléau de l'Eternité +5, réplique en Tofu aux amandes~
+@106 = ~Il peut être utilisé comme marteau de guerre. Mais en l’utilisant les gens s’aperçoivent qu'il est moins efficace que le Fléau de l'Eternité +5 originel.
+
+PARAMETRES :
+
+Capacité d’équipement : connaissance +100
+
+TAC0 : +5
+Dégâts : 1D6 +6, +2 d'acide, +2 de froid, +2 de feu, +2 de poison, +2 d'électricité
+Type de Dégâts : Contondant
+Poids : 8
+Facteur de Vitesse : 2
+Compétence : Fléau/Etoile du matin
+Type d'arme : à 1 main
+Force nécessaire : 0~
+
+@107 = ~Bottes de rapidité, réplique en Tofu aux amandes~
+@108 = ~Elles peuvent être équipées comme des bottes, mais malheureusement, elles sont fabriquées en tofu aux amandes, ce qui semble augmenter la constitution de l'utilisateur au lieu de l’accélérer.
+
+Capacité d’équipement : Constitution +1~
+
+@109 = ~Cimeterre de glace +3, réplique en Tofu aux amandes~
+@110 = ~Le Cimeterre de glace +3 en Tofu aux amandes peut être utilisé comme arme, mais il peut également servir de nourriture chinoise pour le dîner, et sa saveur est encore meilleure après cuisson !
+
+PARAMETRES :
+
+Dégâts : 1D8+3
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 0~
+
+@111 = ~Épée longue + 1, réplique en Tofu aux amandes~
+@112 = ~Elle peut être utilisée comme une épée longue, et elle est faite de tofu, donc tout le monde peut l'utiliser !
+
+PARAMETRES :
+
+Dégâts : 1d8+1
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : épée longue
+Type : arme à 1 main
+Force nécessaire : 0~
+
+@113 = ~Écaille de Dragon rouge, réplique en Tofu aux amandes~
+@114 = ~Elle peut être utilisé comme armure, mais elle est constituée de tofu aux amandes, alors ne vous attendez pas à ce qu'elle protège du feu.
+
+PARAMETRES :
+
+Classe d'armure : 3~
+
+@115 = ~Katana +4, réplique en Tofu aux amandes~
+@116 = ~Il peut être utilisée comme un katana, et malgré sa couleur verte, il est constitué de Tofu aux amandes.
+
+PARAMETRES :
+
+TAC0 : +4
+Dégâts : 1D10 +4
+Type de dégât : tranchant
+Poids : 8
+Facteur de vitesse : 0
+Type de compétence : katana
+Type : arme à 1 main
+Force nécessaire : 0~
+
+@117 = ~Carsomyr +5, réplique en Tofu aux amandes~
+@118 = ~Elle peut être équipée comme une épée à deux mains, et en attendant de mettre la main sur une véritable Épée Sainte, brandir ce morceau de tofu aux amandes peut être un excellent moyen de faire sensation lors d'une réunion de paladins.
+
+Capacités de charge :
+ Dissipation de la magie lancée au niveau 15 trois fois par jour
+ 
+TAC0 : +5
+Dégâts : 1D12 +5
+Type de dégât : tranchant
+Poids : 7
+Facteur de vitesse : 5
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 0~
+
+@119 = ~Furie céleste, réplique en Tofu aux amandes~
+@120 = ~Elle peut être utilisé comme un katana. Ce n'est pas une véritable la véritable Furie céleste, mais ce n'est pas une mauvaise arme pour un morceau de tofu aux amandes.
+
+PARAMETRES :
+
+TAC0 : +3
+Dégâts : 1D10+3
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : Katana
+Type : arme à 1 main
+Force nécessaire : 0~
+
+@121 = ~Robe de Vecna, réplique en Tofu aux amandes~
+@122 = ~Ce morceau de tofu aux amandes a une histoire glorieuse : il y a longtemps, quelqu'un a essayé d'utiliser ce faux pour l'échanger contre la véritable Robe de vecna. La tentative a été couronné de succès, et le temps que Vecna se rende compte qu'il s'agissait d'un faux, sa robe était déjà été accrochée sur les étagères du premier étage du marché de l'aventurier !
+
+PARAMETRES :
+
+Classe d'Armure : 5~
+
+@123 = ~Épée d'argent, réplique en Tofu aux amandes~
+@124 = ~Elle peut être équipée comme une épée à deux mains, mais elle est faite de tofu aux amandes et elle ne peut trancher la tête de personne.
+
+PARAMETRES
+
+TAC0 : +3
+Dégâts : 1D10 +3
+Type de dégâts : Tranchant
+Poids : 10
+Facteur de Vitesse : 7 
+Compétence : Épée à 2 mains
+Type d'arme : à 2 mains
+Force nécessaire 0~
+
+@125 = ~Tofu aux amandes~
+@126 = ~Le Tofu aux amandes est très populaire dans les villes souterraines, et vous avez enfin la possibilité d'en acheter un morceau.
+
+PARAMETRES:
+
+Dégâts : 1D3
+Poison : 5 points de dégâts par seconde pendant 5 secondes (jet de sauvegarde contre la mort pour annuler)
+Type de dégâts : projectile (perforant)
+Poids : 0
+Facteur de vitesse : 2
+Type de compétence : fléchette
+Type : arme à 1 main~
+
+@127 = ~Pain de Hayate~
+@128 = ~Sanae Furukawa fabrique un pain à l'aspect et au goût bizarres qui vous impressionne par sa puissance destructrice.
+
+PARAMETRES:
+
+Dégâts : 4d12 points de dégâts perçants/contondant sur 4,5 mètres de rayon (très dangereux, ne pas utiliser dans une foule)
+
+Poids : 1~
+@129 = ~Pistolet à billes en édition limitée~
+@130 = ~Vous avez ramassé cette arme étrange sur un cadavre dans un donjon, maintenant vous pouvez jouer avec toute la journée.
+
+PARAMETRES :
+
+Cette arme n'a pas besoin de munitions
+Dégâts : 1D60 (projectile) +1D60 perçant
+TAC0 : +8
+Poids : 4
+Facteur de vitesse : 1
+Type de compétence : arbalète
+Type : arme à 2 mains
+Force nécessaire : 0~
+
+@600 = ~L'oreiller maléfique~
+@601 = ~Ce coussin carré porte la marque du mal sur le dessus et lorsque vous le posez sous la tête de quelqu'un vous constatez que toutes ses blessures disparaissent.
+
+PARAMETRES :
+
+Capacité de charge : Résurrection 3 fois par jour.
+
+Poids : 3~
+@602 = ~Le drap maléfique.~
+@603 = ~Lorsque vous décidez de porter le drap maléfique comme cape, une sorte de pouvoir appelé "otaku" remplit tout votre corps, et votre petit univers progresse grandement, tellement que vous avez immédiatement l'impression d'être devenu un surhomme de la 72ème génération, capable de protéger la paix dans le monde.
+
+PARAMETRES :
+
+
+Classe d'Armure : +1
+Jet de sauvegarde : +1
+Régénération : 5 points de vie par seconde
+Non-détection
+Protection contre les attaques sournoises
+Moral : +100
+
+Poids : 3~
+
+@604 = ~Tomoyo After: It's a Wonderful Life, première édition limitée~
+@605 = ~Vous avez enfin trouvé ce jeu, et vous avez décidé de vous cacher immédiatement et d'y jouer pendant quelques jours avant de l'utiliser comme arme.
+
+PARAMETRES :
+
+Capacités de combat : le cd revient à son lanceur
+TAC0 : +1
+Dégâts : 1D30 +3
+Type de dégât : projectile (perforant)
+Poids : 1
+Facteur de vitesse : 1
+Type de compétence : dague
+Type : arme à 1 main
+Force nécessaire : 0~
