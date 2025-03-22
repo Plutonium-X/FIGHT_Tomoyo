@@ -1,5 +1,6 @@
 Version 1.0
-- Mise ‡ jour pour BG2EE.
-- Correction des cartes apparaissant avec des carrÈs de gris sous BG2EE.
-- Traduction franÁaise.
-- Correction de l'objet "Pain de Hayate" dont la description non-identifiÈe Ètait buguÈe.
+- Mise √† jour pour BG2EE.
+- Correction des cartes apparaissant avec des carr√©s de gris sous BG2EE.
+- Traduction fran√ßaise.
+- Correction de l'objet "Pain de Hayate" dont la description non-identifi√©e √©tait bugu√©e.
+- Suppression d'un effet du boss final qui convoqu√©e le solaire de la fin du jeu (et son dialogue faisait planter BG2EE)
