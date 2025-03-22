@@ -1,0 +1,7 @@
+IF
+  See(NearestEnemyOf(Myself))
+  HaveSpell(CLERIC_SUMMON_FALLEN_DEVA)
+THEN
+  RESPONSE #100
+    Spell(Myself,CLERIC_SUMMON_FALLEN_DEVA)
+END

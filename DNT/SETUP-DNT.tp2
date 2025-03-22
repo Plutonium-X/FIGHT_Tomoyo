@@ -1,0 +1,228 @@
+BACKUP ~DNT/bak~
+AUTHOR ~vira@live.com~
+
+LANGUAGE~简体中文~
+	~SimChinese~
+	~DNT/Language/SimChinese/setup.tra~
+LANGUAGE ~English~
+    ~English~
+    ~DNT/Language/English/setup.tra~
+LANGUAGE ~Francais~
+    ~French~
+    ~DNT/Language/French/setup.tra~
+LANGUAGE ~Francais pour BG2EE~
+    ~FrenchEE~
+    ~DNT/Language/FrenchEE/setup.tra~
+BEGIN @1
+
+//拷贝人物
+COPY ~DNT/CRE/DT054.cre~ ~override/DT054.cre~
+SAY NAME1 @2
+SAY NAME2 @2
+COPY ~DNT/CRE/DT0541.cre~ ~override/DT0541.cre~
+SAY NAME1 @2
+SAY NAME2 @2
+COPY ~DNT/CRE/DT0681.cre~ ~override/DT0681.cre~
+SAY NAME1 @3
+SAY NAME2 @3
+COPY ~DNT/CRE/DT0682.cre~ ~override/DT0682.cre~
+SAY NAME1 @3
+SAY NAME2 @3
+COPY ~DNT/CRE/DT0683.cre~ ~override/DT0683.cre~
+SAY NAME1 @3
+SAY NAME2 @3
+COPY ~DNT/CRE/DT0685.cre~ ~override/DT0685.cre~
+SAY NAME1 @3
+SAY NAME2 @3
+COPY ~DNT/CRE/DT071.cre~ ~override/DT071.cre~
+SAY NAME1 @4
+SAY NAME2 @4
+COPY ~DNT/CRE/DT075.cre~ ~override/DT075.cre~
+SAY NAME1 @5
+SAY NAME2 @5
+COPY ~DNT/CRE/DT0751.cre~ ~override/DT0751.cre~
+SAY NAME1 @5
+SAY NAME2 @5
+COPY ~DNT/CRE/DT081.cre~ ~override/DT081.cre~
+SAY NAME1 @6
+SAY NAME2 @6
+COPY ~DNT/CRE/DT0811.cre~ ~override/DT0811.cre~
+SAY NAME1 @6
+SAY NAME2 @6
+COPY ~DNT/CRE/DT090.cre~ ~override/DT090.cre~
+SAY NAME1 @7
+SAY NAME2 @7
+
+
+COPY ~DNT/CRE/vr#ty.cre~ ~override/vr#ty.cre~
+SAY NAME1 @17
+SAY NAME2 @17
+COPY ~DNT/CRE/vr#zm.cre~ ~override/vr#zm.cre~
+SAY NAME1 @18
+SAY NAME2 @18
+COPY ~DNT/CRE/nagisa.cre~ ~override/nagisa.cre~
+SAY NAME1 @19
+SAY NAME2 @19
+
+
+COPY ~DNT/CRE/tomoyo.cre~ ~override/tomoyo.cre~
+SAY NAME1 @20
+SAY NAME2 @20
+SAY BIO @21
+
+
+
+COPY ~DNT/CRE/vira.cre~ ~override/vira.cre~
+SAY NAME1 @40
+SAY NAME2 @40
+COPY ~DNT/CRE/wolf01.cre~ ~override/wolf01.cre~
+SAY NAME1 @41
+SAY NAME2 @41
+COPY ~DNT/CRE/wolf01x.cre~ ~override/wolf01x.cre~
+SAY NAME1 @41
+SAY NAME2 @41
+COPY ~DNT/CRE/wolf02.cre~ ~override/wolf02.cre~
+SAY NAME1 @42
+SAY NAME2 @42
+COPY ~DNT/CRE/wolf03.cre~ ~override/wolf03.cre~
+SAY NAME1 @43
+SAY NAME2 @43
+COPY ~DNT/CRE/wolf04.cre~ ~override/wolf04.cre~
+SAY NAME1 @44
+SAY NAME2 @44
+COPY ~DNT/CRE/Xwolf01.cre~ ~override/Xwolf01.cre~
+SAY NAME1 @51
+SAY NAME2 @51
+COPY ~DNT/CRE/Xwolf02.cre~ ~override/Xwolf02.cre~
+SAY NAME1 @52
+SAY NAME2 @52
+COPY ~DNT/CRE/Xwolf03.cre~ ~override/Xwolf03.cre~
+SAY NAME1 @53
+SAY NAME2 @53
+COPY ~DNT/CRE/Xwolf04.cre~ ~override/Xwolf04.cre~
+SAY NAME1 @54
+SAY NAME2 @54
+COPY ~DNT/CRE/vr#fman.cre~ ~override/vr#fman.cre~
+SAY NAME1 @60
+SAY NAME2 @60
+COPY ~DNT/CRE/vr#dra.cre~ ~override/vr#dra.cre~
+SAY NAME1 @61
+SAY NAME2 @61
+COPY ~DNT/CRE/vr#sr.cre~ ~override/vr#sr.cre~
+SAY NAME1 @62
+SAY NAME2 @62
+COPY ~DNT/CRE/vr#sr2.cre~ ~override/vr#sr2.cre~
+SAY NAME1 @63
+SAY NAME2 @63
+//////////////////////////////////////////////////////////
+
+
+//拷贝物品
+COPY ~DNT/itm/vr#aegis.itm~ ~override/vr#aegis.itm~
+SAY NAME2 @101
+SAY DESC @102
+COPY ~DNT/itm/vr#bda.itm~~override/vr#bda.itm~
+SAY NAME2 @103
+SAY DESC @104
+COPY ~DNT/itm/vr#blun.itm~~override/vr#blun.itm~
+SAY NAME2 @105
+SAY DESC @106
+COPY ~DNT/itm/vr#boot.itm~~override/vr#boot.itm~
+SAY NAME2 @107
+SAY DESC @108
+COPY ~DNT/itm/vr#ice.itm~~override/vr#ice.itm~
+SAY NAME2 @109
+SAY DESC @110
+COPY ~DNT/itm/vr#lsw.itm~~override/vr#lsw.itm~
+SAY NAME2 @111
+SAY DESC @112
+COPY ~DNT/itm/vr#reddr.itm~~override/vr#reddr.itm~
+SAY NAME2 @113
+SAY DESC @114
+COPY ~DNT/itm/vr#solak.itm~~override/vr#solak.itm~
+SAY NAME2 @115
+SAY DESC @116
+COPY ~DNT/itm/vr#ssf.itm~~override/vr#ssf.itm~
+SAY NAME2 @117
+SAY DESC @118
+COPY ~DNT/itm/vr#ts.itm~~override/vr#ts.itm~
+SAY NAME2 @119
+SAY DESC @120
+COPY ~DNT/itm/vr#wkn.itm~~override/vr#wkn.itm~
+SAY NAME2 @121
+SAY DESC @122
+COPY ~DNT/itm/vr#yj.itm~~override/vr#yj.itm~
+SAY NAME2 @123
+SAY DESC @124
+COPY ~DNT/itm/vr#bc.itm~~override/vr#bc.itm~
+SAY NAME2 @125
+SAY DESC @126
+COPY ~DNT/itm/vr#bread.itm~~override/vr#bread.itm~
+SAY NAME2 @127
+SAY DESC @128
+COPY ~DNT/itm/vr#bbgun.itm~~override/vr#bbgun.itm~
+SAY NAME2 @129
+SAY DESC @130
+COPY ~DNT/itm/vr#bb2.itm~~override/vr#bb2.itm~
+SAY NAME2 @129
+SAY DESC @130
+
+COPY ~DNT/itm/tomoyo1.itm~~override/tomoyo1.itm~
+SAY NAME2 @600
+SAY DESC @601
+COPY ~DNT/itm/tomoyo2.itm~~override/tomoyo2.itm~
+SAY NAME2 @602
+SAY DESC @603
+COPY ~DNT/itm/vr#cd.itm~~override/vr#cd.itm~
+SAY NAME2 @604
+SAY DESC @605
+
+
+
+//编译对话文件
+COMPILE ~DNT/D/dt054.d~ USING ~DNT/Language/%s/D/dt054.tra~
+COMPILE ~DNT/D/dt0541.d~ USING ~DNT/Language/%s/D/dt0541.tra~
+COMPILE ~DNT/D/dt0681.d~ USING ~DNT/Language/%s/D/dt0681.tra~
+COMPILE ~DNT/D/dt0682.d~ USING ~DNT/Language/%s/D/dt0682.tra~
+COMPILE ~DNT/D/dt0683.d~ USING ~DNT/Language/%s/D/dt0683.tra~
+COMPILE ~DNT/D/dt0685.d~ USING ~DNT/Language/%s/D/dt0685.tra~
+COMPILE ~DNT/D/dt071.d~ USING ~DNT/Language/%s/D/dt071.tra~
+COMPILE ~DNT/D/dt075.d~ USING ~DNT/Language/%s/D/dt075.tra~
+COMPILE ~DNT/D/dt0751.d~ USING ~DNT/Language/%s/D/dt0751.tra~
+COMPILE ~DNT/D/dt081.d~ USING ~DNT/Language/%s/D/dt081.tra~
+COMPILE ~DNT/D/dt0811.d~ USING ~DNT/Language/%s/D/dt0811.tra~
+COMPILE ~DNT/D/dt090.d~ USING ~DNT/Language/%s/D/dt090.tra~
+
+COMPILE ~DNT/D/vira.d~ USING ~DNT/Language/%s/D/vira.tra~
+COMPILE ~DNT/D/nagisa.d~ USING ~DNT/Language/%s/D/nagisa.tra~
+COMPILE ~DNT/D/tomoyo.d~ USING ~DNT/Language/%s/D/tomoyo.tra~
+
+COMPILE ~DNT/D/vr#zm.d~ USING ~DNT/Language/%s/D/vr#zm.tra~
+COMPILE ~DNT/D/vr#ty.d~ USING ~DNT/Language/%s/D/vr#ty.tra~
+
+//添加脚本
+COMPILE ~DNT/BAF~
+
+//添加商店
+COPY ~DNT/Sto/vr#ty.STO~     ~override/vr#ty.STO~        
+  SAY NAME2 @15
+COPY ~DNT/Sto/vr#zm.STO~     ~override/vr#zm.STO~        
+  SAY NAME2 @16
+
+//添加动画
+COPY ~DNT/BAM~ ~override~
+
+//添加地图
+ACTION_IF GAME_IS ~BGT BG2 TOB~ THEN BEGIN
+COPY ~DNT/area/oBG2~ ~override~
+END
+ACTION_IF GAME_IS ~EET BG2EE~ THEN BEGIN
+COPY ~DNT/area/BG2EE~ ~override~
+END
+COPY ~DNT/area~ ~override~
+COPY_EXISTING ~DNT/area/ar0082.are~ ~override/ar0082.are~
+WRITE_ASCII ~0x94~ ~AR0082~
+
+//添加头像
+COPY ~DNT/Portraits~ ~override~
+COPY ~DNT/Portraits~ ~portraits~

@@ -1,0 +1,5 @@
+Version 1.0
+- Mise à jour pour BG2EE.
+- Correction des cartes apparaissant avec des carrés de gris sous BG2EE.
+- Traduction française.
+- Correction de l'objet "Pain de Hayate" dont la description non-identifiée était buguée.
